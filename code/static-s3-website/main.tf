@@ -1,7 +1,7 @@
 provider "aws" {
-region = "ap-southeast-1"
-access_key= "AKIAUMMFJTCG52IDLMMN"
-secret_key= "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"
+region = "<change-me>"
+access_key= "*******"
+secret_key= "*******"
 }
 
 module "s3-website" {
